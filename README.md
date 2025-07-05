@@ -1,2 +1,2 @@
 # clone-tabnews
-implementação do https://www.tabnews.com.br/ para o curso .dev para aprender programação
+implementação do https://www.tabnews.com.br/ para o https://curso.dev para aprender programação
