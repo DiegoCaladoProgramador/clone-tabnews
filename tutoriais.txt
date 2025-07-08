@@ -1,0 +1,11 @@
+node -v = comando para ver a verção do node
+nvm ls = comando para ver lista disponivel para downloads das verções anteriores
+nvm install = comando para instalar o nvm
+nvm install lts/hydrogen = comando para baixar a versão desejada(lts/hydrogen)
+nvm --help = comando para ver documentação do nvm
+nvm alias default lts/hydrogen = seta a versão padrão do nvm
+npm = gerenciador de pacotes do node js
+npm init = inicia o gerenciador
+npm install next@13.1.6 = comando para baixar o framework nextjs na versão 13.1.6
+npm install react@18.2.0 = comando para baixar o framework react na versão 18.2.0
+npm install react-dom@18.2.0 = comando para baixar o framework react-dom na versão 18.2.0
