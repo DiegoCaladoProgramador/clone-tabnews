@@ -1,3 +1,4 @@
+#####COMANDOS JS#####
 node -v = comando para ver a verção do node
 nvm ls = comando para ver lista disponivel para downloads das verções anteriores
 nvm install = comando para instalar o nvm
@@ -10,3 +11,10 @@ npm install next@13.1.6 = comando para baixar o framework nextjs na versão 13.1
 npm install react@18.2.0 = comando para baixar o framework react na versão 18.2.0
 npm install react-dom@18.2.0 = comando para baixar o framework react-dom na versão 18.2.0
 npm run dev = roda o scrpt dev que foi configurado em package.json
+
+#####COMANDOS GITHUB#####
+git commit -m "mensagem" = atalho para fazer novos commits.
+git push = empurrar alterações locais para o origin.
+git push --force = empurrar de forma forçada alterações locais para o origin.
+git push -f = a forma comprimida do comando anterior.
+git commit --amend = altera o último commit feito(cuidado! pois ao fazer isso voce muda a linha temporal do git e pode dar problema com os outros desenvolvedores)
