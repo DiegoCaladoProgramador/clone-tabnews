@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Todo nós vamos conseguir virar GRANDES DESENVOLVEDORES</h1>
+    return <h1>Todos nós vamos conseguir virar GRANDES DESENVOLVEDORES</h1>
 }
 
 export default Home
