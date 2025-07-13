@@ -13,6 +13,9 @@ npm install react-dom@18.2.0 = comando para baixar o framework react-dom na vers
 npm run dev = roda o scrpt dev que foi configurado em package.json
 
 #####COMANDOS GITHUB#####
+git status = comando para ver as os arquivos que tem diferentes no computador local e na branch do git
+git add "nome do arquivo" = comando para adicionar a mudança no commit
+git add * = adiciona todos os arquivos diferentes
 git commit -m "mensagem" = atalho para fazer novos commits.
 git push = empurrar alterações locais para o origin.
 git push --force = empurrar de forma forçada alterações locais para o origin.
