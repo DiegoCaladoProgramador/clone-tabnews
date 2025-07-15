@@ -11,9 +11,13 @@ npm install next@13.1.6 = comando para baixar o framework nextjs na versão 13.1
 npm install react@18.2.0 = comando para baixar o framework react na versão 18.2.0
 npm install react-dom@18.2.0 = comando para baixar o framework react-dom na versão 18.2.0
 npm run dev = roda o scrpt dev que foi configurado em package.json
+npm install prettier -D = comando para instalar o prettier direto no projeto
+npm run lint:check = comando para o prettier checar todos os arquivos do projeto (obs esse comando foi configurado no package.json lá voce chama o prettier para fazer esse comando)
+npm run lint:fix = comando para o prettier corrigir os arquivos do projeto
 
 #####COMANDOS GITHUB#####
 git status = comando para ver as os arquivos que tem diferentes no computador local e na branch do git
+git diff = mostra as diferenças entre a verção antiga para a nova
 git add "nome do arquivo" = comando para adicionar a mudança no commit
 git add * = adiciona todos os arquivos diferentes
 git commit -m "mensagem" = atalho para fazer novos commits.
