@@ -1,0 +1,8 @@
+root = true
+
+; este comando fala que vai usar a identação em todos os arquivos
+[*] 
+
+;define o estilo de indentação (esse é o padrão para java script)
+indent_style = space
+indent_size = 2
